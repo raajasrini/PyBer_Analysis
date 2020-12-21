@@ -20,7 +20,7 @@ To showcase analysis of the total weekly fares for each city type in multiple-li
   * The fares for each city type.
   * The number of drivers for each city type.
 
-* The pie charts [% of total rides by city type](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/per_totalRides_byCity_Fig6.png) , [% of total drivers by city type](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/per_rides_byCity_Fig7.png) and [% of Total Rides by city type](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/per_totalRides_byCity_Fig6.png) that visualizes the percent of total fares , total rides and the total drivers. 
+* The pie charts [% of total rides by city type](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/per_totalRides_byCity_Fig6.png) , [% of total drivers by city type](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/per_rides_byCity_Fig7.png) and [% of total Rides by city type](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/per_totalRides_byCity_Fig6.png) that visualizes the percent of total fares , total rides and the total drivers. 
   * You can observe that urban make up for 62.7% and 68.4% of total fare and rides. This could be a possible of an over supply of drivers in these areas causing lower prices.
   * A similar but less usual trend in suburban areas.
 
