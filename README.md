@@ -11,11 +11,11 @@ To showcase analysis of the total weekly fares for each city type in multiple-li
  #### PyBer  Analysis  Results  :
 
   
-* The  [bubble chart]()  showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
+* The  [bubble chart](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/pyber_ride_sharing_data_Fig1.png)  showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
 
 * The [mean, median, and mode]() would be helpfull to analyze the **total number of rides for each city type , the average fares for each city type and the total number of drivers for each city type**.
 
-* The [box-and-whisker plots]() helps to visualize each of the following to determine if there are any outliers:
+* The [box-and-whisker plots](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/RideCountData_Fig2.png) helps to visualize each of the following to determine if there are any outliers:
  * The number of rides for each city type.
  * The fares for each city type.
  * The number of drivers for each city type.
@@ -24,7 +24,7 @@ To showcase analysis of the total weekly fares for each city type in multiple-li
  * You can observe that urban make up for 62.7% and 68.4% of total fare and rides. This could be a possible of an over supply of drivers in these areas causing lower prices.
  * A similar but less usual trend in suburban areas.
 
-* The [pyber summary view]() provides the fare per ride and driver per ride in the city.
+* The [pyber summary view](https://github.com/raajasrini/PyBer_Analysis/blob/main/analysis/Ride-sharing_summary_by_city_type.png) provides the fare per ride and driver per ride in the city.
   * There is no well defined trend in average fare per ride ($34.62) and drivers($55.49) in rural areas.
   * The total fare in Urban areas are in the range of from $1500 to $2500 and increasing trend from Jan but drops in March to April. 
   * The total fare in Suburban areas are in the range of above $500 and below $1500. Steady trend from Jan and pikes in Feb to March month.
