@@ -2,7 +2,7 @@
 
 ## Overview :
 
-The assignment is to analyze the byber ride data to find the differences in ride-sharing data among the different city types to showcase the **total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type**. 
+The assignment is to analyze the pyber ride data to find the differences in ride-sharing data among the different city types to showcase the **total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type**. 
 
 To showcase analysis of the total weekly fares for each city type in multiple-line graph and provides summarized view of the data differs by city type and those differences to take strategic decisions.
   
@@ -32,7 +32,7 @@ To showcase analysis of the total weekly fares for each city type in multiple-li
 
 ##  Summary : 
 
-   The byber  analysis provides the view of the rides per city type and drivers per city type analysis of fare trends the recommendations. 
+   The Pyber  analysis provides the view of the rides per city type and drivers per city type analysis of fare trends the recommendations. 
    
  * The number of drivers seems to increase with city classfication with rural areas having the least amount of drivers per city type and Urban areas shows more drivers. It would be beneficial to have study of population versus number of drivers needed to explore the trend.
  
